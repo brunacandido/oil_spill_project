@@ -1,0 +1,7 @@
+# data.yaml for DARTIS oil spill dataset in YOLOv5 format
+
+train: ../yolov5_data/images/train
+val: ../yolov5_data/images/val
+
+nc: 1
+names: ['oil']
